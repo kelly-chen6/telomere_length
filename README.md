@@ -63,7 +63,7 @@ The /path/to/bamtools directory is the directory that contains 'lib' and 'includ
 Running this calculates the length of each chromosome, as well as number of mapped and unmapped reads. 
 It can be beneficial to do this to estimate an individual's chromosome number.
 
-chrcov.sh <path/to/a.bam> <path/to/output>
+`chrcov.sh <path/to/a.bam> <path/to/output>`
 
 ## Run TelSeq
 
